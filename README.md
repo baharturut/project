@@ -1,19 +1,3 @@
-# project
+# Movie Hunter 
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Movie Hunter is a frontend project developed using Vue.js. It provides detailed information about various movies, including their content, ratings, user comments, and actor details.
